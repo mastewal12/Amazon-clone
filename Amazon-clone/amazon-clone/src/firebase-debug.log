@@ -1,0 +1,21 @@
+[debug] [2023-04-11T19:33:49.003Z] ----------------------------------------------------------------------
+[debug] [2023-04-11T19:33:49.006Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\alazar\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-04-11T19:33:49.007Z] CLI Version:   11.25.3
+[debug] [2023-04-11T19:33:49.007Z] Platform:      win32
+[debug] [2023-04-11T19:33:49.007Z] Node Version:  v18.14.0
+[debug] [2023-04-11T19:33:49.009Z] Time:          Tue Apr 11 2023 14:33:49 GMT-0500 (Central Daylight Time)
+[debug] [2023-04-11T19:33:49.009Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-11T19:33:49.023Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-11T19:33:49.024Z] > authorizing via signed-in user (mastewaltakele8@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\alazar\Desktop\Evangadi\phase three\Amazon-clone\amazon-clone\src
+
